@@ -56,7 +56,7 @@ In simple words:
 
 ---
 
-## Task: Explore GCP Console and Cloud Shell
+## Task: Explore GCP Console and Cloud Shell.
 
 ### GCP Console
 
